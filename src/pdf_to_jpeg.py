@@ -6,7 +6,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 pasta_pdfs = os.path.join(BASE_DIR, 'saida_pdfs')
 pasta_saida_img = os.path.join(BASE_DIR, 'saida_imagens')
 
-caminho_poppler = r'C:\Users\nex-i\OneDrive\Documentos\Documentos_importantes\POPPLER\poppler-24.08.0\Library\bin'
+caminho_poppler = r'C:\caminho\para\seu\poppler\bin'
 
 os.makedirs(pasta_saida_img, exist_ok=True)
 
@@ -33,4 +33,5 @@ else:
             except Exception as e:
                 print(f"❌ Erro ao converter {arquivo}: {e}")
         
+
         print(f"✅ Sucesso! Verifique a pasta: {pasta_saida_img}")
