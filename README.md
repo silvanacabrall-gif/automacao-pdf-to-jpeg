@@ -57,7 +57,9 @@ Plaintext
 
 Demonstração da automação funcionando:
 
-![Resultado da Conversão](docs/Captura de tela 2026-03-10 192205.png)
+<img width="1481" height="763" alt="Captura de tela 2026-03-10 192205" src="https://github.com/user-attachments/assets/3aea5ead-ffb5-4ef0-b884-59a8278ac43f" />
+
+<img width="1918" height="976" alt="Captura de tela 2026-03-10 192319" src="https://github.com/user-attachments/assets/6c64df8d-161e-4827-8fca-799fa14f8d0a" />
 
 
 Autora:
