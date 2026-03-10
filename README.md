@@ -55,6 +55,12 @@ Plaintext
 ├── saida_imagens/         # JPEGs finais gerados
 └── EXECUTAR_TUDO.bat      # Script de execução rápida no Windows
 
+Demonstração da automação funcionando:
+
+![Resultado da Conversão](docs/Captura de tela 2026-03-10 192205.png)
+
+![Resultado da Conversão na pasta](docs/Captura de tela 2026-03-10 192319.png)
+
 Autora:
 
 Silvana Cabral - www.linkedin.com/in/silvana-cabral
